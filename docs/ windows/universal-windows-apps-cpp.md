@@ -10,8 +10,8 @@ ms.lasthandoff: 11/15/2018
 ms.locfileid: "51693092"
 ---
 # <a name="universal-windows-apps-c"></a>Aplicaciones Windows universales (C++)
+Las aplicaciones de la plataforma universal de Windows (UWP) representan un conjunto de principios de diseño que hacen hincapié en las interfaces de usuario simples que se centran en el contenido que se ajusta automáticamente para distintos tamañosde pantalla en diferentes dispositivos. La interfaz de usuario se crea en el marcado XAML y el código subyacente en C++ nativo. También puede crear componentes o nuevos archivos (archivos DLL) que pueden consumir las aplicaciones de UWP escritas en otros lenguajes. La superficie de API de las aplicaciones de UWP es Windows Runtime, que es una biblioteca factorizada que proporciona una amplia variedad de el S.o
 
-Las aplicaciones de la plataforma universal de Windows (UWP) representan un conjunto de principios de diseño que hacen hincapié en las interfaces de usuario simples que se centran en el contenido que se ajusta automáticamente para distintos tamaños de pantalla en diferentes dispositivos. La interfaz de usuario se crea en el marcado XAML y el código subyacente en C++ nativo. También puede crear componentes (archivos DLL) que pueden consumir las aplicaciones de UWP escritas en otros lenguajes. La superficie de API de las aplicaciones de UWP es Windows Runtime, que es una biblioteca factorizada que proporciona una amplia variedad de servicios del sistema operativo.
 
 > [!TIP]
 > Para Windows 10, puede usar el convertidor de aplicación de puente de escritorio para empaquetar la aplicación de escritorio existente para la implementación a través de la Microsoft Store. Para obtener más información, consulte [utilizando Visual C++ en tiempo de ejecución en el proyecto Centennial](https://blogs.msdn.microsoft.com/vcblog/2016/07/07/using-visual-c-runtime-in-centennial-project) y [Desktop Bridge](/windows/uwp/porting/desktop-to-uwp-root).
